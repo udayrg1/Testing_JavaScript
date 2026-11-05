@@ -7,7 +7,8 @@ try {
 }
 
 catch(exception){
-    console.log("Exception is: " +exception)
+    console.log("Please provide valid positive integers for array length")
+    //here we are catching the exception and giving the fix
 }
 
 console.log("Sum of A and B is: " +(a+b))
