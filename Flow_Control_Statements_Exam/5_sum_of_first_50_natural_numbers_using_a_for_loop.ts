@@ -4,7 +4,7 @@ let sum_of_natural_numbers: number = 0
 for(let num: number = 1; num <= 50; num++){
     sum_of_natural_numbers += num;
 }
-console.log(sum_of_natural_numbers)
+console.log("Sum of first 50 natural numbers: "+ sum_of_natural_numbers)
 
 //alternate
 

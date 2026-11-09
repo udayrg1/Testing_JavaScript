@@ -8,3 +8,4 @@ for (let num: number = 1; num <= 10; num++) {
 
     console.log(num);
 }
+console.log("Iteration 5 alone skipped and rest of the iterations are printed");
